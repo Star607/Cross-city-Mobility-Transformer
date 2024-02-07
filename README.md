@@ -1,2 +1,2 @@
-# Cross-city-Mobility-Transformer-
-The official implementation of: COLA: Cross-city Mobility Transformer for Human Trajectory Simulation (WWW '24).
+# Cross-city-Mobility-Transformer
+The official implementation of: COLA: Cross-city Mobility Transformer for Human Trajectory Simulation (WWW '24). Coming soon!
