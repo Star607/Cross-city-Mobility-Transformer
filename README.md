@@ -38,7 +38,6 @@ Check out our paper:
                         
 ## 🚀 Running
 
-<!-- - Pre-process the raw data from the publicly available Foursquare dataset with the files in `./data_process`. -->
 - Model Training
   - `python train.py`
   - `--train_cities` sets the source cities
